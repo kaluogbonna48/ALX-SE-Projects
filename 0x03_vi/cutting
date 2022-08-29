@@ -1,0 +1,8 @@
+COMMAND TO CUT AND DELETE USING VI
+
+For Cutting
+cmd: yy
+
+For Deleting
+cmd: dd
+
